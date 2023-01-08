@@ -537,14 +537,15 @@ const showPlanes=(filtro,ibePlanes)=>{
     let  filtered =[];
     if(filtro.value==''){
         filtered = [...ibePlanes];
-    }else if(filtro='casa'){
-        filtered = ibePlanes.filter(vplane=>vplane.lat>='40' && vplane.lat<=40.9);        
+    }else if(filtro==='casa'){
+        filtered = ibePlanes.filter(vplane=>vplane.lat>='40' && vplane.lat<=40.9);
     }else{
          filtered = ibePlanes.filter(vplane=>(
             vplane.matricula.toLowerCase().includes(filtro.value.toLowerCase())||
             vplane.codigoModelo.toLowerCase().includes(filtro.value.toLowerCase())||
             vplane.descModelo.toLowerCase().includes(filtro.value.toLowerCase()))            
             );
+            console.log('filtro3');
     }
     
     filtered.forEach(plane => {     
