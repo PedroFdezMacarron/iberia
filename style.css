@@ -1,0 +1,77 @@
+*{
+    /* margin: 0 auto; */
+    /* padding: 0px; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cabecera{
+    width: 100%;
+    background-color: #D1172C;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    color: orange;
+    font-size: 20px;
+    text-align: start;
+    align-items: center;
+    
+}
+.logo{
+    max-height: 100px;    
+}
+
+.galeria{
+    display: flex;
+    flex-wrap: wrap;
+}
+.file{
+    display: flex;
+    border-bottom: #D1172C 1px solid;
+    margin: 0;
+    justify-content: center;
+}
+.txt{
+    width: 50%;
+    margin: 0;    
+}
+.matricula{
+    font-weight: 700;
+    margin: 0;
+}
+.codModelo{    
+    margin: 0;
+}
+.descModelo{
+    margin: 0;
+}
+.coord{
+    font-size: 10px;
+}
+.imgModelo{
+    max-height: 90px; 
+    margin: 0px;
+    border-radius: 5px;
+    margin-top: 5px;
+
+}
+.imgModelo:hover{
+    max-height: 150px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+.boton{
+    color: #D1172C;
+    border: #D1172C 1px solid;
+    border-radius: 5px;
+    font-size: 15px;    
+    font-weight: 600;
+    width: 50%;
+}
+.filtro{
+    display: flex;
+    border-bottom: #D1172C 1px solid;
+    padding-bottom: 10px;
+    gap:10px
+}
+
+
