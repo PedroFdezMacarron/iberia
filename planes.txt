@@ -1,0 +1,166 @@
+
+12
+: 
+{matricula: 'EC-KUB', codigoModelo: 'A319', descModelo: 'Airbus A319'}
+13
+: 
+{matricula: 'EC-HUH', codigoModelo: 'A321', descModelo: 'Airbus A321'}
+14
+: 
+{matricula: 'EC-ILO', codigoModelo: 'A321', descModelo: 'Airbus A321'}
+15
+: 
+{matricula: 'EC-IZH', codigoModelo: 'A320', descModelo: 'Airbus A320'}
+16
+: 
+{matricula: 'EC-IEG', codigoModelo: 'A320', descModelo: 'Airbus A320'}
+17
+: 
+{matricula: 'EC-MMG', codigoModelo: 'A332', descModelo: 'Airbus A330-200'}
+18
+: 
+{matricula: 'EC-MSY', codigoModelo: 'A332', descModelo: 'Airbus A330-200'}
+19
+: 
+{matricula: 'EC-MUD', codigoModelo: 'A332', descModelo: 'Airbus A330-200'}
+20
+: 
+{matricula: 'EC-MAA', codigoModelo: 'A333', descModelo: 'Airbus A330-300'}
+21
+: 
+{matricula: 'EC-MKI', codigoModelo: 'A332', descModelo: 'Airbus A330-200'}
+22
+: 
+{matricula: 'EC-LOJ', codigoModelo: 'CRJX', descModelo: 'Bombardier CRJ-1000'}
+23
+: 
+{matricula: '9H-NFT', codigoModelo: 'AT76', descModelo: 'ATR 72-600'}
+24
+: 
+{matricula: 'EC-NJY', codigoModelo: 'A20N', descModelo: 'Airbus A320neo'}
+25
+: 
+{matricula: 'EC-LEI', codigoModelo: 'A319', descModelo: 'Airbus A319'}
+26
+: 
+{matricula: 'EC-LUX', codigoModelo: 'A333', descModelo: 'Airbus A330-300'}
+27
+: 
+{matricula: 'EC-JDL', codigoModelo: 'A319', descModelo: 'Airbus A319'}
+28
+: 
+{matricula: 'EC-NDR', codigoModelo: 'A359', descModelo: 'Airbus A350-900'}
+29
+: 
+{matricula: 'EC-MRI', codigoModelo: 'CRJX', descModelo: 'Bombardier CRJ-1000'}
+30
+: 
+{matricula: 'EC-LQV', codigoModelo: 'AT76', descModelo: 'ATR 72-600'}
+31
+: 
+{matricula: 'EC-NXD', codigoModelo: 'A359', descModelo: 'Airbus A350-900'}
+32
+: 
+{matricula: 'EC-LSQ', codigoModelo: 'AT76', descModelo: 'ATR 72-600'}
+33
+: 
+{matricula: 'EC-LPN', codigoModelo: 'CRJX', descModelo: 'Bombardier CRJ-1000'}
+34
+: 
+{matricula: 'EC-IXD', codigoModelo: 'A321', descModelo: 'Airbus A321'}
+35
+: 
+{matricula: 'EC-LUL', codigoModelo: 'A320', descModelo: 'Airbus A320'}
+36
+: 
+{matricula: 'EC-JEI', codigoModelo: 'A319', descModelo: 'Airbus A319'}
+37
+: 
+{matricula: 'EC-LVD', codigoModelo: 'A320', descModelo: 'Airbus A320'}
+38
+: 
+{matricula: 'EC-MJO', codigoModelo: 'CRJX', descModelo: 'Bombardier CRJ-1000'}
+39
+: 
+{matricula: 'EC-MDK', codigoModelo: 'A320', descModelo: 'Airbus A320'}
+40
+: 
+{matricula: 'EC-NTI', codigoModelo: 'A20N', descModelo: 'Airbus A320neo'}
+41
+: 
+{matricula: 'EC-NTA', codigoModelo: 'A20N', descModelo: 'Airbus A320neo'}
+42
+: 
+{matricula: 'EC-JFN', codigoModelo: 'A320', descModelo: 'Airbus A320'}
+43
+: 
+{matricula: 'EC-JAZ', codigoModelo: 'A319', descModelo: 'Airbus A319'}
+44
+: 
+{matricula: 'EC-MKJ', codigoModelo: 'A332', descModelo: 'Airbus A330-200'}
+45
+: 
+{matricula: 'EC-NTP', codigoModelo: 'A20N', descModelo: 'Airbus A320neo'}
+46
+: 
+{matricula: 'EC-NFZ', codigoModelo: 'A20N', descModelo: 'Airbus A320neo'}
+47
+: 
+{matricula: 'EC-MCS', codigoModelo: 'A320', descModelo: 'Airbus A320'}
+48
+: 
+{matricula: 'EC-LYF', codigoModelo: 'A333', descModelo: 'Airbus A330-300'}
+49
+: 
+{matricula: 'EC-LRG', codigoModelo: 'A320', descModelo: 'Airbus A320'}
+50
+: 
+{matricula: 'EC-MVZ', codigoModelo: 'CRJX', descModelo: 'Bombardier CRJ-1000'}
+51
+: 
+{matricula: 'EC-LOV', codigoModelo: 'CRJX', descModelo: 'Bombardier CRJ-1000'}
+52
+: 
+{matricula: 'EC-NMZ', codigoModelo: 'A359', descModelo: 'Airbus A350-900'}
+53
+: 
+{matricula: 'EC-MXY', codigoModelo: 'A20N', descModelo: 'Airbus A320neo'}
+54
+: 
+{matricula: 'EC-NIS', codigoModelo: 'A359', descModelo: 'Airbus A350-900'}
+55
+: 
+{matricula: 'EC-IJN', codigoModelo: 'A321', descModelo: 'Airbus A321'}
+56
+: 
+{matricula: 'EC-LRU', codigoModelo: 'AT76', descModelo: 'ATR 72-600'}
+57
+: 
+{matricula: 'EC-NTO', codigoModelo: 'A20N', descModelo: 'Airbus A320neo'}
+58
+: 
+{matricula: 'EC-LXK', codigoModelo: 'A333', descModelo: 'Airbus A330-300'}
+59
+: 
+{matricula: '9H-NCC', codigoModelo: 'AT76', descModelo: 'ATR 72-600'}
+60
+: 
+{matricula: 'EC-MXA', codigoModelo: 'CRJX', descModelo: 'Bombardier CRJ-1000'}
+61
+: 
+{matricula: 'EC-LRR', codigoModelo: 'AT76', descModelo: 'ATR 72-600'}
+62
+: 
+{matricula: 'EC-NDN', codigoModelo: 'A20N', descModelo: 'Airbus A320neo'}
+63
+: 
+{matricula: 'EC-KHM', codigoModelo: 'A319', descModelo: 'Airbus A319'}
+64
+: 
+{matricula: 'EC-JRE', codigoModelo: 'A321', descModelo: 'Airbus A321'}
+65
+: 
+{matricula: 'EC-MOX', codigoModelo: 'CRJX', descModelo: 'Bombardier CRJ-1000'}
+66
+: 
+{matricula: 'EC-NJM', codigoModelo: 'A359', descModelo: 'Airbus A350-900'}
