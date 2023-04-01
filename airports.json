@@ -1,0 +1,1209 @@
+{
+  "response": [
+    {
+      "name": "Adolfo Suarez Madrid-Barajas Airport",
+      "iata_code": "MAD",
+      "icao_code": "LEMD",
+      "lat": 40.484669,
+      "lng": -3.565533,
+      "country_code": "ES"
+    },
+    {
+      "name": "Barcelona-El Prat Airport",
+      "iata_code": "BCN",
+      "icao_code": "LEBL",
+      "lat": 41.299069,
+      "lng": 2.077617,
+      "country_code": "ES"
+    },
+    {
+      "name": "Palma de Mallorca Airport",
+      "iata_code": "PMI",
+      "icao_code": "LEPA",
+      "lat": 39.549785,
+      "lng": 2.734176,
+      "country_code": "ES"
+    },
+    {
+      "name": "Malaga Airport",
+      "iata_code": "AGP",
+      "icao_code": "LEMG",
+      "lat": 36.674994,
+      "lng": -4.495945,
+      "country_code": "ES"
+    },
+    {
+      "name": "Alicante-Elche Airport",
+      "iata_code": "ALC",
+      "icao_code": "LEAL",
+      "lat": 38.283823,
+      "lng": -0.557899,
+      "country_code": "ES"
+    },
+    {
+      "name": "Gran Canaria Airport",
+      "iata_code": "LPA",
+      "icao_code": "GCLP",
+      "lat": 27.932063,
+      "lng": -15.385939,
+      "country_code": "ES"
+    },
+    {
+      "name": "Ibiza Airport",
+      "iata_code": "IBZ",
+      "icao_code": "LEIB",
+      "lat": 38.874118,
+      "lng": 1.371348,
+      "country_code": "ES"
+    },
+    {
+      "name": "Tenerife North Airport",
+      "iata_code": "TFN",
+      "icao_code": "GCXO",
+      "lat": 28.484469,
+      "lng": -16.343007,
+      "country_code": "ES"
+    },
+    {
+      "name": "Valencia Airport",
+      "iata_code": "VLC",
+      "icao_code": "LEVC",
+      "lat": 39.490134,
+      "lng": -0.47891,
+      "country_code": "ES"
+    },
+    {
+      "name": "Bilbao Airport",
+      "iata_code": "BIO",
+      "icao_code": "LEBB",
+      "lat": 43.302579,
+      "lng": -2.909009,
+      "country_code": "ES"
+    },
+    {
+      "name": "Tenerife South Airport",
+      "iata_code": "TFS",
+      "icao_code": "GCTS",
+      "lat": 28.044471,
+      "lng": -16.572497,
+      "country_code": "ES"
+    },
+    {
+      "name": "Seville San Pablo Airport",
+      "iata_code": "SVQ",
+      "icao_code": "LEZL",
+      "lat": 37.419825,
+      "lng": -5.895452,
+      "country_code": "ES"
+    },
+    {
+      "name": "Lanzarote Airport",
+      "iata_code": "ACE",
+      "icao_code": "GCRR",
+      "lat": 28.948812,
+      "lng": -13.606606,
+      "country_code": "ES"
+    },
+    {
+      "name": "Fuerteventura Airport",
+      "iata_code": "FUE",
+      "icao_code": "GCFV",
+      "lat": 28.452008,
+      "lng": -13.865818,
+      "country_code": "ES"
+    },
+    {
+      "name": "Menorca Airport",
+      "iata_code": "MAH",
+      "icao_code": "LEMH",
+      "lat": 39.863409,
+      "lng": 4.220466,
+      "country_code": "ES"
+    },
+    {
+      "name": "Santiago de Compostela Airport",
+      "iata_code": "SCQ",
+      "icao_code": "LEST",
+      "lat": 42.896756,
+      "lng": -8.416065,
+      "country_code": "ES"
+    },
+    {
+      "name": "La Palma Airport",
+      "iata_code": "SPC",
+      "icao_code": "GCLA",
+      "lat": 28.626456,
+      "lng": -17.755589,
+      "country_code": "ES"
+    },
+    {
+      "name": "Asturias Airport",
+      "iata_code": "OVD",
+      "icao_code": "LEAS",
+      "lat": 43.562026,
+      "lng": -6.033778,
+      "country_code": "ES"
+    },
+    {
+      "name": "A Coruna Airport",
+      "iata_code": "LCG",
+      "icao_code": "LECO",
+      "lat": 43.302174,
+      "lng": -8.378814,
+      "country_code": "ES"
+    },
+    {
+      "name": "Vigo Airport",
+      "iata_code": "VGO",
+      "icao_code": "LEVX",
+      "lat": 42.229384,
+      "lng": -8.629192,
+      "country_code": "ES"
+    },
+    {
+      "name": "Federico Garcia Lorca Airport",
+      "iata_code": "GRX",
+      "icao_code": "LEGR",
+      "lat": 37.187387,
+      "lng": -3.777225,
+      "country_code": "ES"
+    },
+    {
+      "name": "Melilla Airport",
+      "iata_code": "MLN",
+      "icao_code": "GEML",
+      "lat": 35.278899,
+      "lng": -2.956664,
+      "country_code": "ES"
+    },
+    {
+      "name": "Almeria Airport",
+      "iata_code": "LEI",
+      "icao_code": "LEAM",
+      "lat": 36.845274,
+      "lng": -2.370691,
+      "country_code": "ES"
+    },
+    {
+      "name": "Jerez Airport",
+      "iata_code": "XRY",
+      "icao_code": "LEJR",
+      "lat": 36.746611,
+      "lng": -6.061585,
+      "country_code": "ES"
+    },
+    {
+      "name": "Hierro Airport",
+      "iata_code": "VDE",
+      "icao_code": "GCHI",
+      "lat": 27.814539,
+      "lng": -17.886366,
+      "country_code": "ES"
+    },
+    {
+      "name": "Santander Airport",
+      "iata_code": "SDR",
+      "icao_code": "LEXJ",
+      "lat": 43.425796,
+      "lng": -3.822604,
+      "country_code": "ES"
+    },
+    {
+      "name": "Zaragoza Airport",
+      "iata_code": "ZAZ",
+      "icao_code": "LEZG",
+      "lat": 41.665435,
+      "lng": -1.030188,
+      "country_code": "ES"
+    },
+    {
+      "name": "Reus Airport",
+      "iata_code": "REU",
+      "icao_code": "LERS",
+      "lat": 41.146964,
+      "lng": 1.162553,
+      "country_code": "ES"
+    },
+    {
+      "name": "Aeroport de Girona - Costa Brava",
+      "iata_code": "GRO",
+      "icao_code": "LEGE",
+      "lat": 41.900004,
+      "lng": 2.762494,
+      "country_code": "ES"
+    },
+    {
+      "name": "San Sebastian Airport",
+      "iata_code": "EAS",
+      "icao_code": "LESO",
+      "lat": 43.356473,
+      "lng": -1.791586,
+      "country_code": "ES"
+    },
+    {
+      "name": "Valladolid Airport",
+      "iata_code": "VLL",
+      "icao_code": "LEVD",
+      "lat": 41.706007,
+      "lng": -4.849502,
+      "country_code": "ES"
+    },
+    {
+      "name": "Vitoria Airport",
+      "iata_code": "VIT",
+      "icao_code": "LEVT",
+      "lat": 42.882534,
+      "lng": -2.724771,
+      "country_code": "ES"
+    },
+    {
+      "name": "Pamplona Airport",
+      "iata_code": "PNA",
+      "icao_code": "LEPP",
+      "lat": 42.769179,
+      "lng": -1.644002,
+      "country_code": "ES"
+    },
+    {
+      "name": "Leon Airport",
+      "iata_code": "LEN",
+      "icao_code": "LELN",
+      "lat": 42.589523,
+      "lng": -5.65247,
+      "country_code": "ES"
+    },
+    {
+      "name": "Badajoz Airport",
+      "iata_code": "BJZ",
+      "icao_code": "LEBZ",
+      "lat": 38.891954,
+      "lng": -6.820741,
+      "country_code": "ES"
+    },
+    {
+      "name": "Cordoba Airport",
+      "iata_code": "ODB",
+      "icao_code": "LEBA",
+      "lat": 37.841999,
+      "lng": -4.84888,
+      "country_code": "ES"
+    },
+    {
+      "name": "Castellon-Costa Azahar Airport",
+      "iata_code": "CDT",
+      "icao_code": "LECH",
+      "lat": 40.213889,
+      "lng": 0.073333,
+      "country_code": "ES"
+    },
+    {
+      "name": "Logrono-Agoncillo Airport",
+      "iata_code": "RJL",
+      "icao_code": "LERJ",
+      "lat": 42.458402,
+      "lng": -2.320705,
+      "country_code": "ES"
+    },
+    {
+      "name": "Muchamiel",
+      "icao_code": "LEMU",
+      "lat": 38.440601,
+      "lng": -0.475278,
+      "country_code": "ES"
+    },
+    {
+      "name": "Burgos Villafria Airport",
+      "iata_code": "RGS",
+      "icao_code": "LEBG",
+      "lat": 42.357561,
+      "lng": -3.618364,
+      "country_code": "ES"
+    },
+    {
+      "name": "Son Bonet Aerodrome",
+      "iata_code": "SBO",
+      "icao_code": "LESB",
+      "lat": 39.5989,
+      "lng": 2.70278,
+      "country_code": "ES"
+    },
+    {
+      "name": "Albacete Airport",
+      "iata_code": "ABC",
+      "icao_code": "LEAB",
+      "lat": 38.948455,
+      "lng": -1.863458,
+      "country_code": "ES"
+    },
+    {
+      "name": "Huesca-Pirineos Airport",
+      "iata_code": "HSK",
+      "icao_code": "LEHC",
+      "lat": 42.076099,
+      "lng": -0.316667,
+      "country_code": "ES"
+    },
+    {
+      "name": "Alcantarilla Air Base",
+      "icao_code": "LERI",
+      "lat": 37.951099,
+      "lng": -1.23032,
+      "country_code": "ES"
+    },
+    {
+      "name": "Algeciras Heliport",
+      "iata_code": "AEI",
+      "icao_code": "LEAG",
+      "lat": 36.12888,
+      "lng": -5.441118,
+      "country_code": "ES"
+    },
+    {
+      "name": "Alhama De Murcia Airport",
+      "icao_code": "LELH",
+      "lat": 37.748901,
+      "lng": -1.30216,
+      "country_code": "ES"
+    },
+    {
+      "name": "Almansa",
+      "icao_code": "LELM",
+      "lat": 38.895,
+      "lng": -1.11318,
+      "country_code": "ES"
+    },
+    {
+      "name": "Altarejos-Guadalcanal Private Airfield",
+      "icao_code": "LEGC",
+      "lat": 38.1717,
+      "lng": -5.73953,
+      "country_code": "ES"
+    },
+    {
+      "name": "Ampuriabrava",
+      "icao_code": "LEAP",
+      "lat": 42.259998,
+      "lng": 3.109722,
+      "country_code": "ES"
+    },
+    {
+      "name": "Armilla Air Base",
+      "icao_code": "LEGA",
+      "lat": 37.133202,
+      "lng": -3.63569,
+      "country_code": "ES"
+    },
+    {
+      "name": "Autoridad Portuaria de Barcelona Heliport",
+      "icao_code": "LEPB",
+      "lat": 41.3643,
+      "lng": 2.18301,
+      "country_code": "ES"
+    },
+    {
+      "name": "La Axarquía-Leoni Benabu Airport",
+      "icao_code": "LEAX",
+      "lat": 36.801666,
+      "lng": -4.135556,
+      "country_code": "ES"
+    },
+    {
+      "name": "Beas De Segura",
+      "icao_code": "LEBE",
+      "lat": 38.271111,
+      "lng": -2.948889,
+      "country_code": "ES"
+    },
+    {
+      "name": "Benabarre",
+      "icao_code": "LENA",
+      "lat": 42.0228,
+      "lng": 0.482222,
+      "country_code": "ES"
+    },
+    {
+      "name": "Berga Heliport",
+      "icao_code": "LERG",
+      "lat": 42.105598,
+      "lng": 1.85333,
+      "country_code": "ES"
+    },
+    {
+      "name": "BP Oil España Heliport",
+      "icao_code": "LEBP",
+      "lat": 39.957901,
+      "lng": -0.011632,
+      "country_code": "ES"
+    },
+    {
+      "name": "Cala'n Blanes Heliport",
+      "icao_code": "LENB",
+      "lat": 39.997501,
+      "lng": 3.81333,
+      "country_code": "ES"
+    },
+    {
+      "name": "Calaf-Sallavinera Airport",
+      "icao_code": "LECF",
+      "lat": 41.744202,
+      "lng": 1.55694,
+      "country_code": "ES"
+    },
+    {
+      "name": "La Calderera",
+      "icao_code": "LELA",
+      "lat": 38.747898,
+      "lng": -3.51456,
+      "country_code": "ES"
+    },
+    {
+      "name": "La Caminera",
+      "icao_code": "LENE",
+      "lat": 38.668668,
+      "lng": -3.303146,
+      "country_code": "ES"
+    },
+    {
+      "name": "Campo Gaviota Heliport",
+      "icao_code": "LEGV",
+      "lat": 43.4417,
+      "lng": -2.75361,
+      "country_code": "ES"
+    },
+    {
+      "name": "Cas Curredó Heliport",
+      "icao_code": "LECC",
+      "lat": 38.9291,
+      "lng": 1.46633,
+      "country_code": "ES"
+    },
+    {
+      "name": "Casarrubios Del Monte",
+      "icao_code": "LEMT",
+      "lat": 40.235001,
+      "lng": -4.02639,
+      "country_code": "ES"
+    },
+    {
+      "name": "Casas de los Pinos Airport",
+      "icao_code": "LEPI",
+      "lat": 39.298199,
+      "lng": -2.37872,
+      "country_code": "ES"
+    },
+    {
+      "name": "Castejón de los Monegros Airport",
+      "icao_code": "LECJ",
+      "lat": 41.6078,
+      "lng": -0.218327,
+      "country_code": "ES"
+    },
+    {
+      "name": "Castellon de la Plana Airport",
+      "iata_code": "CDT",
+      "icao_code": "LECN",
+      "lat": 39.999199,
+      "lng": 0.026111,
+      "country_code": "ES"
+    },
+    {
+      "name": "La Centenera",
+      "icao_code": "LENN",
+      "lat": 38.11489,
+      "lng": -4.11547,
+      "country_code": "ES"
+    },
+    {
+      "name": "La Cerdanya Airport",
+      "icao_code": "LECD",
+      "lat": 42.386398,
+      "lng": 1.86667,
+      "country_code": "ES"
+    },
+    {
+      "name": "Ceuta Heliport",
+      "iata_code": "JCU",
+      "icao_code": "GECE",
+      "lat": 35.892432,
+      "lng": -5.30628,
+      "country_code": "ES"
+    },
+    {
+      "name": "Ciudad Sanitaria y Universitaria de Bellvitge Heliport",
+      "icao_code": "LEHB",
+      "lat": 41.345299,
+      "lng": 2.10729,
+      "country_code": "ES"
+    },
+    {
+      "name": "Costa Brava-Centro Heliport",
+      "icao_code": "LEBC",
+      "lat": 41.807701,
+      "lng": 3.03718,
+      "country_code": "ES"
+    },
+    {
+      "name": "Costa Norte-Puerto de Viveiro-Celeiro Heliport",
+      "icao_code": "LEPV",
+      "lat": 43.674801,
+      "lng": -7.59523,
+      "country_code": "ES"
+    },
+    {
+      "name": "Cuatro Vientos Airport",
+      "iata_code": "ECV",
+      "icao_code": "LECU",
+      "lat": 40.370701,
+      "lng": -3.78514,
+      "country_code": "ES"
+    },
+    {
+      "name": "Dirección General de Tráfico Heliport",
+      "icao_code": "LEDG",
+      "lat": 40.449299,
+      "lng": -3.646131,
+      "country_code": "ES"
+    },
+    {
+      "name": "E. Castellanos-Villacastín Airport",
+      "icao_code": "LEEV",
+      "lat": 40.783901,
+      "lng": -4.46278,
+      "country_code": "ES"
+    },
+    {
+      "name": "El Berriel Aeroc Airport",
+      "icao_code": "GCLB",
+      "lat": 27.782499,
+      "lng": -15.5072,
+      "country_code": "ES"
+    },
+    {
+      "name": "El Carrascal",
+      "icao_code": "LEVB",
+      "lat": 41.824699,
+      "lng": -4.89306,
+      "country_code": "ES"
+    },
+    {
+      "name": "El Castaño Airport",
+      "icao_code": "LECT",
+      "lat": 39.0107,
+      "lng": -4.38636,
+      "country_code": "ES"
+    },
+    {
+      "name": "El Manantío Airport",
+      "icao_code": "LEEM",
+      "lat": 38.777508,
+      "lng": -6.991124,
+      "country_code": "ES"
+    },
+    {
+      "name": "El Musel Heliport",
+      "icao_code": "LEEL",
+      "lat": 43.549732,
+      "lng": -5.695446,
+      "country_code": "ES"
+    },
+    {
+      "name": "El Portinyol Heliport",
+      "icao_code": "LEPY",
+      "lat": 41.5835,
+      "lng": 2.56079,
+      "country_code": "ES"
+    },
+    {
+      "name": "El Tietar",
+      "icao_code": "LETI",
+      "lat": 40.2439,
+      "lng": -4.79444,
+      "country_code": "ES"
+    },
+    {
+      "name": "Expo 92 Heliport",
+      "icao_code": "LEEX",
+      "lat": 37.3993,
+      "lng": -6.010675,
+      "country_code": "ES"
+    },
+    {
+      "name": "Fira M2 Heliport",
+      "icao_code": "LEFR",
+      "lat": 41.353901,
+      "lng": 2.12917,
+      "country_code": "ES"
+    },
+    {
+      "name": "Fuentemilanos",
+      "icao_code": "LEFM",
+      "lat": 40.888611,
+      "lng": -4.2375,
+      "country_code": "ES"
+    },
+    {
+      "name": "Garidells Heliport",
+      "icao_code": "LEGD",
+      "lat": 41.213902,
+      "lng": 1.24156,
+      "country_code": "ES"
+    },
+    {
+      "name": "Garray",
+      "icao_code": "LEGY",
+      "lat": 41.823101,
+      "lng": -2.47861,
+      "country_code": "ES"
+    },
+    {
+      "name": "Madrid / Getafe",
+      "icao_code": "LEGT",
+      "lat": 40.294102,
+      "lng": -3.72383,
+      "country_code": "ES"
+    },
+    {
+      "name": "La Gomera Airport",
+      "iata_code": "GMZ",
+      "icao_code": "GCGM",
+      "lat": 28.025379,
+      "lng": -17.209716,
+      "country_code": "ES"
+    },
+    {
+      "name": "Heli Montsiá - Amposta Heliport",
+      "icao_code": "LEMN",
+      "lat": 40.666401,
+      "lng": 0.564722,
+      "country_code": "ES"
+    },
+    {
+      "name": "Helicsa Heliport",
+      "icao_code": "LEHE",
+      "lat": 39.071201,
+      "lng": -1.83435,
+      "country_code": "ES"
+    },
+    {
+      "name": "Hospital Alcorcón Heliport",
+      "icao_code": "LEHA",
+      "lat": 40.349702,
+      "lng": -3.83819,
+      "country_code": "ES"
+    },
+    {
+      "name": "Hospital Can Misses Heliport",
+      "icao_code": "LENM",
+      "lat": 38.9175,
+      "lng": 1.41944,
+      "country_code": "ES"
+    },
+    {
+      "name": "Hospital Doce de Octubre Heliport",
+      "icao_code": "LEDO",
+      "lat": 40.374736,
+      "lng": -3.699853,
+      "country_code": "ES"
+    },
+    {
+      "name": "Hospital Doctor Josep Trueta Heliport",
+      "icao_code": "LEJT",
+      "lat": 41.997898,
+      "lng": 2.8214,
+      "country_code": "ES"
+    },
+    {
+      "name": "Hospital General De Catalunya Heliport",
+      "icao_code": "LEHG",
+      "lat": 41.473598,
+      "lng": 2.0425,
+      "country_code": "ES"
+    },
+    {
+      "name": "Hospital General De Manresa Heliport",
+      "icao_code": "LEHM",
+      "lat": 41.720001,
+      "lng": 1.84056,
+      "country_code": "ES"
+    },
+    {
+      "name": "Hospital San Pau Heliport",
+      "icao_code": "LESP",
+      "lat": 41.413502,
+      "lng": 2.17196,
+      "country_code": "ES"
+    },
+    {
+      "name": "Hospital Universitario De Canarias Heliport",
+      "icao_code": "GCHU",
+      "lat": 28.4562,
+      "lng": -16.292101,
+      "country_code": "ES"
+    },
+    {
+      "name": "Hospital Universitario Joan XXIII Heliport",
+      "icao_code": "LEHJ",
+      "lat": 41.125599,
+      "lng": 1.23813,
+      "country_code": "ES"
+    },
+    {
+      "name": "Hotel Rey Juan Carlos I Heliport",
+      "icao_code": "LEJC",
+      "lat": 41.3825,
+      "lng": 2.10917,
+      "country_code": "ES"
+    },
+    {
+      "name": "Igualada/Odena Airfield",
+      "icao_code": "LEIG",
+      "lat": 41.585602,
+      "lng": 1.65306,
+      "country_code": "ES"
+    },
+    {
+      "name": "Iurreta Heliport",
+      "icao_code": "LEIU",
+      "lat": 43.1819,
+      "lng": -2.64639,
+      "country_code": "ES"
+    },
+    {
+      "name": "La Juliana",
+      "icao_code": "LEJU",
+      "lat": 37.294998,
+      "lng": -6.1625,
+      "country_code": "ES"
+    },
+    {
+      "name": "King Juan Carlos Hospital Heliport",
+      "icao_code": "LERY",
+      "lat": 40.340433,
+      "lng": -3.86951,
+      "country_code": "ES"
+    },
+    {
+      "name": "Lillo",
+      "icao_code": "LELT",
+      "lat": 39.7169,
+      "lng": -3.32056,
+      "country_code": "ES"
+    },
+    {
+      "name": "Lleida-Alguaire Airport",
+      "iata_code": "ILD",
+      "icao_code": "LEDA",
+      "lat": 41.728,
+      "lng": 0.537312,
+      "country_code": "ES"
+    },
+    {
+      "name": "Los Martínez Del Puerto Airport",
+      "icao_code": "LEMP",
+      "lat": 37.836817,
+      "lng": -1.097667,
+      "country_code": "ES"
+    },
+    {
+      "name": "Los Pozuelos De Calatrava Airport",
+      "icao_code": "LEPZ",
+      "lat": 38.912201,
+      "lng": -4.19111,
+      "country_code": "ES"
+    },
+    {
+      "name": "Madrigalejo Del Monte",
+      "icao_code": "LEJO",
+      "lat": 42.134399,
+      "lng": -3.73103,
+      "country_code": "ES"
+    },
+    {
+      "name": "Mafé - Gibraleón Airport",
+      "icao_code": "LEMF",
+      "lat": 37.3643,
+      "lng": -6.92094,
+      "country_code": "ES"
+    },
+    {
+      "name": "La Mancha-Toledo Airport",
+      "icao_code": "LEMX",
+      "lat": 39.562099,
+      "lng": -3.25075,
+      "country_code": "ES"
+    },
+    {
+      "name": "Manresa Airport",
+      "icao_code": "LEMS",
+      "lat": 41.765301,
+      "lng": 1.86167,
+      "country_code": "ES"
+    },
+    {
+      "name": "Mas Passamaner Heliport",
+      "icao_code": "LEPS",
+      "lat": 41.185902,
+      "lng": 1.15992,
+      "country_code": "ES"
+    },
+    {
+      "name": "Matilla De Los Caños Airport",
+      "icao_code": "LETC",
+      "lat": 41.530602,
+      "lng": -4.925,
+      "country_code": "ES"
+    },
+    {
+      "name": "Morante",
+      "icao_code": "LETE",
+      "lat": 39.0369,
+      "lng": -6.69056,
+      "country_code": "ES"
+    },
+    {
+      "name": "La Morgal",
+      "icao_code": "LEMR",
+      "lat": 43.429199,
+      "lng": -5.83056,
+      "country_code": "ES"
+    },
+    {
+      "name": "Moron Air Base",
+      "iata_code": "OZP",
+      "icao_code": "LEMO",
+      "lat": 37.173206,
+      "lng": -5.614595,
+      "country_code": "ES"
+    },
+    {
+      "name": "La Nava - Corral De Ayllón Airfield",
+      "icao_code": "LECA",
+      "lat": 41.410801,
+      "lng": -3.44833,
+      "country_code": "ES"
+    },
+    {
+      "name": "Nou Hospital De Mataró Heliport",
+      "icao_code": "LENH",
+      "lat": 41.560799,
+      "lng": 2.42972,
+      "country_code": "ES"
+    },
+    {
+      "name": "Ocaña Airport",
+      "icao_code": "LEOC",
+      "lat": 39.9375,
+      "lng": -3.50333,
+      "country_code": "ES"
+    },
+    {
+      "name": "Ontur",
+      "icao_code": "LEOT",
+      "lat": 38.616901,
+      "lng": -1.525,
+      "country_code": "ES"
+    },
+    {
+      "name": "Palma Del Río Airport",
+      "icao_code": "LEPR",
+      "lat": 37.715302,
+      "lng": -5.21356,
+      "country_code": "ES"
+    },
+    {
+      "name": "Parque De Bomberos De Orriols Heliport",
+      "icao_code": "LEOR",
+      "lat": 42.132198,
+      "lng": 2.90389,
+      "country_code": "ES"
+    },
+    {
+      "name": "Parque De Garraf-Sitges Heliport",
+      "icao_code": "LEGS",
+      "lat": 41.273899,
+      "lng": 1.91472,
+      "country_code": "ES"
+    },
+    {
+      "name": "La Perdiz - Torre De Juan Abad Airport",
+      "icao_code": "LEIZ",
+      "lat": 38.5131,
+      "lng": -3.36433,
+      "country_code": "ES"
+    },
+    {
+      "name": "Andorra - La Seu d'Urgell Airport",
+      "iata_code": "LEU",
+      "icao_code": "LESU",
+      "lat": 42.339502,
+      "lng": 1.409304,
+      "country_code": "ES"
+    },
+    {
+      "name": "R.A.C.C. Heliport",
+      "icao_code": "LERA",
+      "lat": 41.383301,
+      "lng": 2.10833,
+      "country_code": "ES"
+    },
+    {
+      "name": "Region de Murcia International Airport",
+      "iata_code": "RMU",
+      "icao_code": "LEMI",
+      "lat": 37.80369,
+      "lng": -1.125453,
+      "country_code": "ES"
+    },
+    {
+      "name": "Robledillo De Mohernando",
+      "icao_code": "LERM",
+      "lat": 40.865299,
+      "lng": -3.24778,
+      "country_code": "ES"
+    },
+    {
+      "name": "Naval Station Rota",
+      "iata_code": "ROZ",
+      "icao_code": "LERT",
+      "lat": 36.644167,
+      "lng": -6.349286,
+      "country_code": "ES"
+    },
+    {
+      "name": "Rozas",
+      "icao_code": "LERO",
+      "lat": 43.116901,
+      "lng": -7.47028,
+      "country_code": "ES"
+    },
+    {
+      "name": "Sabadell Airport",
+      "iata_code": "QSA",
+      "icao_code": "LELL",
+      "lat": 41.520901,
+      "lng": 2.10508,
+      "country_code": "ES"
+    },
+    {
+      "name": "Salamanca Airport",
+      "iata_code": "SLM",
+      "icao_code": "LESA",
+      "lat": 40.952054,
+      "lng": -5.501975,
+      "country_code": "ES"
+    },
+    {
+      "name": "San Enrique",
+      "icao_code": "LESE",
+      "lat": 38.730801,
+      "lng": -4.31306,
+      "country_code": "ES"
+    },
+    {
+      "name": "Murcia-San Javier Airport",
+      "iata_code": "MJV",
+      "icao_code": "LELC",
+      "lat": 37.775062,
+      "lng": -0.814606,
+      "country_code": "ES"
+    },
+    {
+      "name": "Real Aeroclub de Mahon Menorca",
+      "icao_code": "LESL",
+      "lat": 39.862202,
+      "lng": 4.25833,
+      "country_code": "ES"
+    },
+    {
+      "name": "San Sebastián De La Gomera Heliport",
+      "icao_code": "GCGO",
+      "lat": 28.0972,
+      "lng": -17.1024,
+      "country_code": "ES"
+    },
+    {
+      "name": "Sangüesa Airport",
+      "icao_code": "LESG",
+      "lat": 42.565601,
+      "lng": -1.28472,
+      "country_code": "ES"
+    },
+    {
+      "name": "Sant Martí De Sescorts Heliport",
+      "icao_code": "LETM",
+      "lat": 42.015499,
+      "lng": 2.31925,
+      "country_code": "ES"
+    },
+    {
+      "name": "Santa Cilia De Jaca",
+      "icao_code": "LECI",
+      "lat": 42.569199,
+      "lng": -0.727778,
+      "country_code": "ES"
+    },
+    {
+      "name": "Santo Tome Del Puerto",
+      "icao_code": "LETP",
+      "lat": 41.204201,
+      "lng": -3.59472,
+      "country_code": "ES"
+    },
+    {
+      "name": "Servei D'Evacuació Del Circuit De Catalunya Heliport",
+      "icao_code": "LERV",
+      "lat": 41.571999,
+      "lng": 2.26203,
+      "country_code": "ES"
+    },
+    {
+      "name": "Servei Generals Del Circuit De Catalunya Heliport",
+      "icao_code": "LETA",
+      "lat": 41.574001,
+      "lng": 2.25716,
+      "country_code": "ES"
+    },
+    {
+      "name": "Sotos",
+      "icao_code": "LESS",
+      "lat": 40.204201,
+      "lng": -2.14389,
+      "country_code": "ES"
+    },
+    {
+      "name": "Teruel Airport",
+      "iata_code": "TEV",
+      "icao_code": "LETL",
+      "lat": 40.409481,
+      "lng": -1.217913,
+      "country_code": "ES"
+    },
+    {
+      "name": "Tirviá Heliport",
+      "icao_code": "LETV",
+      "lat": 42.518799,
+      "lng": 1.24231,
+      "country_code": "ES"
+    },
+    {
+      "name": "Tomás Fernández Espada Airport",
+      "icao_code": "LETF",
+      "lat": 36.871793,
+      "lng": -5.648775,
+      "country_code": "ES"
+    },
+    {
+      "name": "Torozos",
+      "icao_code": "LETZ",
+      "lat": 41.785301,
+      "lng": -4.86473,
+      "country_code": "ES"
+    },
+    {
+      "name": "Torre Picasso Heliport",
+      "icao_code": "LETS",
+      "lat": 40.449829,
+      "lng": -3.693144,
+      "country_code": "ES"
+    },
+    {
+      "name": "Madrid-Torrejon Airport",
+      "iata_code": "TOJ",
+      "icao_code": "LETO",
+      "lat": 40.496717,
+      "lng": -3.44587,
+      "country_code": "ES"
+    },
+    {
+      "name": "Tremp Heliport",
+      "icao_code": "LETR",
+      "lat": 42.169399,
+      "lng": 0.892778,
+      "country_code": "ES"
+    },
+    {
+      "name": "Ullastrell-Teresa Vilá Heliport",
+      "icao_code": "LEUL",
+      "lat": 41.5243,
+      "lng": 1.97158,
+      "country_code": "ES"
+    },
+    {
+      "name": "Vielha Heliport",
+      "icao_code": "LEVH",
+      "lat": 42.704399,
+      "lng": 0.796946,
+      "country_code": "ES"
+    },
+    {
+      "name": "Vilaller Heliport",
+      "icao_code": "LEVR",
+      "lat": 42.304699,
+      "lng": 0.713056,
+      "country_code": "ES"
+    },
+    {
+      "name": "Villaframil",
+      "icao_code": "LEVF",
+      "lat": 43.552502,
+      "lng": -7.08778,
+      "country_code": "ES"
+    },
+    {
+      "name": "Viso del Marqués Airport",
+      "icao_code": "LEVI",
+      "lat": 38.5056,
+      "lng": -3.42615,
+      "country_code": "ES"
+    },
+    {
+      "name": "Base Aérea de Colmenar Viejo",
+      "icao_code": "LECV",
+      "lat": 40.697296,
+      "lng": -3.763255,
+      "country_code": "ES"
+    },
+    {
+      "name": "Base Aérea de El Copero",
+      "icao_code": "LEEC",
+      "lat": 37.313164,
+      "lng": -5.999058,
+      "country_code": "ES"
+    },
+    {
+      "name": "Aeródromo de Guadalupe",
+      "icao_code": "LEGU",
+      "lat": 39.345699,
+      "lng": -5.19735,
+      "country_code": "ES"
+    },
+    {
+      "name": "Aeródromo de Linares",
+      "icao_code": "LELI",
+      "lat": 38.133211,
+      "lng": -3.642554,
+      "country_code": "ES"
+    },
+    {
+      "name": "Aeródromo de los Oteros",
+      "icao_code": "LEOS",
+      "lat": 42.333056,
+      "lng": -5.451944,
+      "country_code": "ES"
+    },
+    {
+      "name": "Aeródromo Requena El Rebollar",
+      "icao_code": "LERE",
+      "lat": 39.474701,
+      "lng": -1.03444,
+      "country_code": "ES"
+    },
+    {
+      "name": "Aeródromo Virgen de La Estrella",
+      "icao_code": "LEVE",
+      "lat": 38.420556,
+      "lng": -6.356944,
+      "country_code": "ES"
+    }
+  ]
+}

@@ -1,3 +1,8 @@
+// endpoint consulta por
+// id de vuelo
+// https://api.flightradar24.com/common/v1/search.json?fetchBy=reg&query=344344
+
+
 const arrayPlanes =  [
     {
         "description": "Airbus A220 family",
